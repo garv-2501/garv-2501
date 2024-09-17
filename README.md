@@ -1,6 +1,6 @@
 # 👾 Garv Singh Rawlot
 
-Hey! 👋 I'm a developer/researcher with a knack for AI, agent-based models, and diving into time series data. I just love problem-solving in general and building or working with intricate systems. Let's collaborate on some fun projects! 😁
+Hey! 👋 I'm a developer/researcher with a knack for AI, agent-based models, and LLMs. I love problem-solving and working with intricate systems. Let's collaborate on some fun projects! 😁
 
 ---
 
